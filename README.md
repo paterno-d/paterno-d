@@ -102,7 +102,3 @@ Atualmente, dedico meus estudos à **Programação Orientada a Objetos**, conect
 />
 <br clear="all"/>
 <div style="margin-top: 20px;"></div>
-
-
-<br/>
-<br/>
